@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\bin\Debug\GetSignedBuilds.exe.config
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\bin\Debug\GetSignedBuilds.exe
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\bin\Debug\GetSignedBuilds.pdb
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\bin\Debug\GetSignedBuilds.xml
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.Form1.resources
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.Resources.resources
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.exe
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.xml
+C:\Users\Administrator\Desktop\GetSignedBuilds\GetSignedBuilds\obj\Debug\GetSignedBuilds.pdb
